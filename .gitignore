@@ -1,0 +1,10 @@
+
+minio/data
+
+mysql8/data
+
+nginx-web/conf
+
+redis6/conf
+redis6/data
+redis6/logs
